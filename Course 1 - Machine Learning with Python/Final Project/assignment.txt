@@ -1,0 +1,3 @@
+The logistic regression model has lower accuracy (around 83%) compared to the random forest classifier (around 84%).
+Both models share a true positive rate of around 51%.
+Overall, the Random Forest Classifier shows better accuracy
